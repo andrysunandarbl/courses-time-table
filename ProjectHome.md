@@ -1,0 +1,8 @@
+In a department like computer engineering or a school of engineering in general, we suffer every semester from setting a suitable a timetable schedule for professors, classrooms, courses, and students as well as scheduling exams. The timetable/exam scheduling usually takes long time to be stabilized. The reason behind that is the hard and soft constraints that need to be taken into consideration during forming the timetable/exam scheduling. Although too much effort and time spent in scheduling, some of the professors as well as students complain about their schedule by the end of the day. Therefore, we want to make sure that our timetable/exams for the department/school is the best we could get and convince everybody by that. One way to do so is to automate the timetable generation process and just balm the computer for any inconvenience. In addition to the timetable schedule, we want to utilize the similar components used for the timetable in scheduling exams as well. That enables 2X1 product.
+
+Similarly, Our program helps you to build your course/exam schedule in a quick time with accurate results. you can find all the courses available for you  and choose them then putting in your time table soon.
+
+In addition to the efficiency of the used algorithms, a simple user interface is a must.
+
+we will use coloring algorithm and graph algorithm for implementing our program.
+this program will be in java and using my sql for database.
